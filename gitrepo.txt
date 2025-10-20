@@ -3,3 +3,4 @@ This is another text from main
 =======
 This is feature
 >>>>>>> featurebranch
+This is from collaborator branch
